@@ -1,0 +1,4089 @@
+{
+    "Services": [
+        {
+            "ServiceCode": "A4B",
+            "AttributeNames": [
+                "productFamily",
+                "deploymentModel",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "deploymentModelDescription"
+            ]
+        },
+        {
+            "ServiceCode": "AWSAmplify",
+            "AttributeNames": [
+                "productFamily",
+                "requestCount",
+                "termType",
+                "usagetype",
+                "datatransferout",
+                "locationType",
+                "storage",
+                "regionCode",
+                "servicecode",
+                "requestDuration",
+                "instancetype",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSAppFabric",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSAppRunner",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "pipeline",
+                "cputupe",
+                "regionCode",
+                "servicecode",
+                "build",
+                "location",
+                "servicename",
+                "gb",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSAppSync",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "graphqloperation",
+                "locationType",
+                "realtimeoperation",
+                "cachememorysize",
+                "protocol",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSApplicationMigrationSvc",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "replicationType",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSBackup",
+            "AttributeNames": [
+                "productFamily",
+                "backupEvaluations",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storagetype",
+                "regionCode",
+                "servicecode",
+                "storageType",
+                "location",
+                "backupservice",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSBillingConductor",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "accounts",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSBudgets",
+            "AttributeNames": [
+                "productFamily",
+                "servicecode",
+                "groupDescription",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCertificateManager",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCleanRooms",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "computetype",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCloudFormation",
+            "AttributeNames": [
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "cloudformationresourceProvider",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCloudMap",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "type"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCloudTrail",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "insightstype",
+                "category"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCloudWAN",
+            "AttributeNames": [
+                "attachmentType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCodeArtifact",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "pricingUnit",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCodeCommit",
+            "AttributeNames": [
+                "productFamily",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCodeDeploy",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "deploymentLocation",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCodePipeline",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSConfig",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "category",
+                "platopricingtype",
+                "ciType"
+            ]
+        },
+        {
+            "ServiceCode": "AWSCostExplorer",
+            "AttributeNames": [
+                "productFamily",
+                "requestType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "granularity",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDataExchange",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storageClass",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDataSync",
+            "AttributeNames": [
+                "productFamily",
+                "productSchemaDescription",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDataTransfer",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "termType",
+                "usagetype",
+                "fromRegionCode",
+                "toLocationType",
+                "toLocation",
+                "toRegionCode",
+                "Restriction",
+                "servicecode",
+                "transferType",
+                "servicename",
+                "fromLocation",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDatabaseMigrationSvc",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "enhancedNetworkingSupported",
+                "memory",
+                "dedicatedEbsThroughput",
+                "vcpu",
+                "termType",
+                "locationType",
+                "storage",
+                "instanceFamily",
+                "type",
+                "availabilityZone",
+                "storageMedia",
+                "regionCode",
+                "physicalProcessor",
+                "clockSpeed",
+                "networkPerformance",
+                "servicename",
+                "minVolumeSize",
+                "instanceType",
+                "capacityUsage",
+                "usagetype",
+                "maxVolumeSize",
+                "processorFeatures",
+                "Restriction",
+                "servicecode",
+                "currentGeneration",
+                "location",
+                "processorArchitecture",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDeepRacer",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDeveloperSupport",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "includedServices",
+                "locationType",
+                "training",
+                "thirdpartySoftwareSupport",
+                "operationsSupport",
+                "architecturalReview",
+                "launchSupport",
+                "servicename",
+                "whoCanOpenCases",
+                "customerServiceAndCommunities",
+                "proactiveGuidance",
+                "usagetype",
+                "accountAssistance",
+                "servicecode",
+                "architectureSupport",
+                "programmaticCaseManagement",
+                "technicalSupport",
+                "location",
+                "caseSeverityresponseTimes",
+                "bestPractices"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDeviceFarm",
+            "AttributeNames": [
+                "productFamily",
+                "os",
+                "deviceOs",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "executionMode",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "meterMode"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDirectConnect",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "virtualInterfaceType",
+                "termType",
+                "usagetype",
+                "fromRegionCode",
+                "toLocationType",
+                "toLocation",
+                "version",
+                "toRegionCode",
+                "servicecode",
+                "transferType",
+                "servicename",
+                "fromLocation",
+                "directConnectLocation",
+                "locationType",
+                "connectionType",
+                "capacity",
+                "regionCode",
+                "portSpeed",
+                "georegioncode",
+                "location",
+                "operation",
+                "sitelinkOriginPopGroup"
+            ]
+        },
+        {
+            "ServiceCode": "AWSDirectoryService",
+            "AttributeNames": [
+                "productFamily",
+                "directoryTypeDescription",
+                "directorySize",
+                "termType",
+                "usagetype",
+                "locationType",
+                "directoryType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "pricingUnit"
+            ]
+        },
+        {
+            "ServiceCode": "AWSELB",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElasticDisasterRecovery",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "replicationType",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElementalMediaConvert",
+            "AttributeNames": [
+                "productFamily",
+                "transcodingResult",
+                "videoQualitySetting",
+                "termType",
+                "usagetype",
+                "addonFeature",
+                "locationType",
+                "description",
+                "videoFrameRate",
+                "regionCode",
+                "servicecode",
+                "tier",
+                "location",
+                "servicename",
+                "videoResolution",
+                "videoCodec"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElementalMediaLive",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "reserveType",
+                "resolution",
+                "videoQuality",
+                "output",
+                "pipeline",
+                "frameRate",
+                "input",
+                "regionCode",
+                "servicecode",
+                "bitRate",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElementalMediaPackage",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "transferType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElementalMediaStore",
+            "AttributeNames": [
+                "productFamily",
+                "ingestType",
+                "durability",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "availability",
+                "storageclass",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSElementalMediaTailor",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "tier",
+                "location",
+                "operationType",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSEntityResolution",
+            "AttributeNames": [
+                "productFamily",
+                "resolutionType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "operationType",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSEvents",
+            "AttributeNames": [
+                "productFamily",
+                "request",
+                "timeWindow",
+                "termType",
+                "usagetype",
+                "locationType",
+                "eventType",
+                "Restriction",
+                "regionCode",
+                "invocation",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSFIS",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "action",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSFMS",
+            "AttributeNames": [
+                "productFamily",
+                "platoprotectionpolicytype",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "awsresource"
+            ]
+        },
+        {
+            "ServiceCode": "AWSGlobalAccelerator",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "endpointType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "toLocationType",
+                "toLocation",
+                "dominantnondominant",
+                "feeDescription",
+                "servicecode",
+                "pricingUnit",
+                "servicename",
+                "location",
+                "fromLocation",
+                "trafficDirection",
+                "operation",
+                "clientLocation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSGlueElasticViews",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSGlue",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSGreengrass",
+            "AttributeNames": [
+                "productFamily",
+                "tenancySupport",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSGroundStation",
+            "AttributeNames": [
+                "productFamily",
+                "bandwidth",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "groundstation",
+                "ondemand"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoT1Click",
+            "AttributeNames": [
+                "productFamily",
+                "deviceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "device"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoTAnalytics",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoTEvents",
+            "AttributeNames": [
+                "productFamily",
+                "awsiotevents",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoTFleetWise",
+            "AttributeNames": [
+                "productFamily",
+                "millionMessages",
+                "termType",
+                "usagetype",
+                "locationType",
+                "individualVehicle",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoTSiteWise",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoTThingsGraph",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSIoT",
+            "AttributeNames": [
+                "productFamily",
+                "iswebsocket",
+                "isshadow",
+                "termType",
+                "usagetype",
+                "locationType",
+                "eventType",
+                "newcode",
+                "protocol",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSLakeFormation",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSLambda",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSM2",
+            "AttributeNames": [
+                "productFamily",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "productName",
+                "regionCode",
+                "freetier",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSMDC",
+            "AttributeNames": [
+                "productFamily",
+                "designVersion",
+                "configuration",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "contractLength"
+            ]
+        },
+        {
+            "ServiceCode": "AWSMediaConnect",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "termType",
+                "usagetype",
+                "fromRegionCode",
+                "locationType",
+                "toLocationType",
+                "toLocation",
+                "toRegionCode",
+                "reservedTier",
+                "regionCode",
+                "servicecode",
+                "transferType",
+                "location",
+                "servicename",
+                "fromLocation",
+                "operation",
+                "flowType"
+            ]
+        },
+        {
+            "ServiceCode": "AWSMigrationHubRefactorSpaces",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "productType"
+            ]
+        },
+        {
+            "ServiceCode": "AWSNetworkFirewall",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "subcategory",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSOutposts",
+            "AttributeNames": [
+                "productFamily",
+                "enhancedNetworkingSupported",
+                "intelTurboAvailable",
+                "memory",
+                "dedicatedEbsThroughput",
+                "vcpu",
+                "capacitystatus",
+                "termType",
+                "locationType",
+                "storage",
+                "instanceFamily",
+                "operatingSystem",
+                "intelAvx2Available",
+                "regionCode",
+                "physicalProcessor",
+                "clockSpeed",
+                "ecu",
+                "networkPerformance",
+                "outpostusage",
+                "servicename",
+                "instanceCapacity8xlarge",
+                "instanceType",
+                "tenancy",
+                "usagetype",
+                "normalizationSizeFactor",
+                "gpu",
+                "instanceCapacity16xlarge",
+                "instanceCapacity2xlarge",
+                "processorFeatures",
+                "intelAvxAvailable",
+                "instanceCapacity4xlarge",
+                "platousagetype",
+                "servicecode",
+                "instanceCapacityXlarge",
+                "licenseModel",
+                "currentGeneration",
+                "preInstalledSw",
+                "location",
+                "processorArchitecture",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSPrivate5G",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "commitmentDays",
+                "accessPointType",
+                "capability",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSQueueService",
+            "AttributeNames": [
+                "productFamily",
+                "messageDeliveryOrder",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "messageDeliveryFrequency",
+                "queueType",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSR53AppRecoveryController",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "frequency",
+                "clustertype",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSResilienceHub",
+            "AttributeNames": [
+                "productFamily",
+                "feecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSRoboMaker",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "availability",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSecretsManager",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSecurityHub",
+            "AttributeNames": [
+                "productFamily",
+                "standardGroup",
+                "termType",
+                "usagetype",
+                "locationType",
+                "automationStorage",
+                "regionCode",
+                "standardStorage",
+                "servicecode",
+                "findingSource",
+                "automationGroup",
+                "location",
+                "servicename",
+                "findingStorage",
+                "findingGroup"
+            ]
+        },
+        {
+            "ServiceCode": "AWSServiceCatalog",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "withActiveUsers",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSShield",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "termType",
+                "usagetype",
+                "fromRegionCode",
+                "toLocationType",
+                "toLocation",
+                "servicecode",
+                "servicename",
+                "fromLocation",
+                "operation",
+                "resourceType",
+                "description",
+                "locationType",
+                "location"
+            ]
+        },
+        {
+            "ServiceCode": "AWSStorageGatewayDeepArchive",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storageDescription",
+                "storageClass",
+                "regionCode",
+                "feeDescription",
+                "servicecode",
+                "feeCode",
+                "location",
+                "servicename",
+                "maximumCapacity",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSStorageGateway",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "version",
+                "storageDescription",
+                "regionCode",
+                "storageClass",
+                "feeDescription",
+                "servicecode",
+                "feeCode",
+                "location",
+                "servicename",
+                "maximumCapacity",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSupplyChain",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSupportBusiness",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "includedServices",
+                "locationType",
+                "training",
+                "thirdpartySoftwareSupport",
+                "operationsSupport",
+                "architecturalReview",
+                "launchSupport",
+                "servicename",
+                "whoCanOpenCases",
+                "customerServiceAndCommunities",
+                "proactiveGuidance",
+                "usagetype",
+                "accountAssistance",
+                "servicecode",
+                "architectureSupport",
+                "programmaticCaseManagement",
+                "technicalSupport",
+                "location",
+                "caseSeverityresponseTimes",
+                "bestPractices"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSupportEnterprise",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "includedServices",
+                "locationType",
+                "training",
+                "thirdpartySoftwareSupport",
+                "operationsSupport",
+                "architecturalReview",
+                "launchSupport",
+                "servicename",
+                "whoCanOpenCases",
+                "customerServiceAndCommunities",
+                "proactiveGuidance",
+                "usagetype",
+                "accountAssistance",
+                "servicecode",
+                "architectureSupport",
+                "programmaticCaseManagement",
+                "technicalSupport",
+                "location",
+                "caseSeverityresponseTimes",
+                "bestPractices"
+            ]
+        },
+        {
+            "ServiceCode": "AWSSystemsManager",
+            "AttributeNames": [
+                "productFamily",
+                "dataTransfer",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storage",
+                "gets",
+                "steps",
+                "Restriction",
+                "servicecode",
+                "response",
+                "location",
+                "servicename",
+                "apirequestsfree",
+                "parameterType",
+                "apirequestspaid",
+                "instances",
+                "changerequestsfree",
+                "updates",
+                "changerequestspaid",
+                "describes",
+                "regionCode",
+                "opsItems",
+                "throughput"
+            ]
+        },
+        {
+            "ServiceCode": "AWSTelcoNetworkBuilder",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "mnfi",
+                "tnbapicalls",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AWSTransfer",
+            "AttributeNames": [
+                "productFamily",
+                "execution",
+                "connectorType",
+                "data",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "endpoint",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSWickr",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "plan"
+            ]
+        },
+        {
+            "ServiceCode": "AWSWisdom",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "transactionType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AWSXRay",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AlexaTopSites",
+            "AttributeNames": [
+                "productFamily",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AlexaWebInfoService",
+            "AttributeNames": [
+                "productFamily",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonA2I",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "integratingFeature",
+                "workforceType",
+                "integratingService",
+                "location",
+                "servicename",
+                "operation",
+                "integratingApi"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonApiGateway",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "cacheMemorySizeGb",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonAppStream",
+            "AttributeNames": [
+                "productFamily",
+                "osLicenseModel",
+                "vcpu",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceFamily",
+                "instanceFunction",
+                "operatingSystem",
+                "videoMemoryGib",
+                "regionCode",
+                "servicecode",
+                "memoryGib",
+                "multiSession",
+                "licenseModel",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonAthena",
+            "AttributeNames": [
+                "productFamily",
+                "freeQueryTypes",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "nodeType",
+                "nodeSize",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonBedrock",
+            "AttributeNames": [
+                "productFamily",
+                "inferenceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "titanModelUnit",
+                "regionCode",
+                "servicecode",
+                "feature",
+                "featureType",
+                "location",
+                "servicename",
+                "titanModel"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonBraket",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "memory",
+                "computeType",
+                "vcpu",
+                "termType",
+                "locationType",
+                "type",
+                "deviceName",
+                "producttype",
+                "deviceProvider",
+                "regionCode",
+                "provider",
+                "servicename",
+                "productType",
+                "instanceType",
+                "usagetype",
+                "version",
+                "simulatorName",
+                "Restriction",
+                "operationOutcome",
+                "servicecode",
+                "location",
+                "devicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeBusinessCalling",
+            "AttributeNames": [
+                "productFamily",
+                "messagetype",
+                "tocountry",
+                "termType",
+                "usagetype",
+                "locationType",
+                "numbertype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "fromcountry"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeCallMeAMCS",
+            "AttributeNames": [
+                "productFamily",
+                "country",
+                "primaryplaceofuse",
+                "tocountry",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeCallMe",
+            "AttributeNames": [
+                "productFamily",
+                "country",
+                "tocountry",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeDialInAMCS",
+            "AttributeNames": [
+                "productFamily",
+                "country",
+                "primaryplaceofuse",
+                "callingType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "transactionType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeDialin",
+            "AttributeNames": [
+                "productFamily",
+                "country",
+                "callingType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeFeatures",
+            "AttributeNames": [
+                "productFamily",
+                "primaryplaceofuse",
+                "termType",
+                "usagetype",
+                "locationType",
+                "transactiontype",
+                "licenseType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeServices",
+            "AttributeNames": [
+                "productFamily",
+                "primaryplaceofuse",
+                "tocountry",
+                "termType",
+                "usagetype",
+                "locationType",
+                "numbertype",
+                "transactionType",
+                "licenseType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "fromcountry",
+                "calltype"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChimeVoiceConnector",
+            "AttributeNames": [
+                "productFamily",
+                "messagetype",
+                "tocountry",
+                "termType",
+                "usagetype",
+                "locationType",
+                "numbertype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "fromcountry",
+                "calltype"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonChime",
+            "AttributeNames": [
+                "productFamily",
+                "licenseType",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCloudDirectory",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "storageClass",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCloudFront",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "requestType",
+                "termType",
+                "usagetype",
+                "fromRegionCode",
+                "locationType",
+                "toLocationType",
+                "toLocation",
+                "requestDescription",
+                "toRegionCode",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "transferType",
+                "location",
+                "servicename",
+                "fromLocation",
+                "group",
+                "Restriction",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCloudSearch",
+            "AttributeNames": [
+                "productFamily",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "cloudSearchVersion",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCloudWatch",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "typeDescription",
+                "type",
+                "version",
+                "logsDestination",
+                "storageMedia",
+                "Restriction",
+                "regionCode",
+                "alarmType",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCodeWhisperer",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "tier",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCognitoSync",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonCognito",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonConnectCases",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "connectcasemanagement",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonConnectVoiceID",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonConnect",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "channel"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonDAX",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceFamily",
+                "regionCode",
+                "servicecode",
+                "currentGeneration",
+                "networkPerformance",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonDetective",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "dataType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonDevOpsGuru",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "apiCalls",
+                "regionCode",
+                "servicecode",
+                "resourcePriceGroup",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonDocDB",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "engineCode",
+                "enhancedNetworkingSupported",
+                "memory",
+                "vcpu",
+                "termType",
+                "locationType",
+                "instanceFamily",
+                "storageMedia",
+                "regionCode",
+                "physicalProcessor",
+                "clockSpeed",
+                "networkPerformance",
+                "servicename",
+                "group",
+                "minVolumeSize",
+                "instanceTypeFamily",
+                "instanceType",
+                "usagetype",
+                "normalizationSizeFactor",
+                "maxVolumeSize",
+                "databaseEngine",
+                "servicecode",
+                "groupDescription",
+                "currentGeneration",
+                "location",
+                "processorArchitecture",
+                "operation",
+                "processorFeatures"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonDynamoDB",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "OfferingClass",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "LeaseContractLength",
+                "location",
+                "servicename",
+                "PurchaseOption",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonEC2",
+            "AttributeNames": [
+                "instanceCapacityMetal",
+                "volumeType",
+                "maxIopsvolume",
+                "instance",
+                "classicnetworkingsupport",
+                "instanceCapacity10xlarge",
+                "fromRegionCode",
+                "locationType",
+                "toLocationType",
+                "instanceFamily",
+                "operatingSystem",
+                "toRegionCode",
+                "clockSpeed",
+                "LeaseContractLength",
+                "ecu",
+                "networkPerformance",
+                "instanceCapacity8xlarge",
+                "group",
+                "gpuMemory",
+                "maxThroughputvolume",
+                "ebsOptimized",
+                "vpcnetworkingsupport",
+                "maxVolumeSize",
+                "gpu",
+                "intelAvxAvailable",
+                "processorFeatures",
+                "instanceCapacity4xlarge",
+                "servicecode",
+                "groupDescription",
+                "elasticGraphicsType",
+                "volumeApiName",
+                "processorArchitecture",
+                "physicalCores",
+                "fromLocation",
+                "snapshotarchivefeetype",
+                "marketoption",
+                "availabilityzone",
+                "productFamily",
+                "fromLocationType",
+                "enhancedNetworkingSupported",
+                "intelTurboAvailable",
+                "memory",
+                "dedicatedEbsThroughput",
+                "vcpu",
+                "OfferingClass",
+                "instanceCapacityLarge",
+                "capacitystatus",
+                "termType",
+                "storage",
+                "toLocation",
+                "intelAvx2Available",
+                "storageMedia",
+                "regionCode",
+                "physicalProcessor",
+                "provisioned",
+                "servicename",
+                "PurchaseOption",
+                "instancesku",
+                "productType",
+                "instanceCapacity18xlarge",
+                "instanceType",
+                "tenancy",
+                "usagetype",
+                "normalizationSizeFactor",
+                "instanceCapacity16xlarge",
+                "instanceCapacity2xlarge",
+                "maxIopsBurstPerformance",
+                "instanceCapacity12xlarge",
+                "instanceCapacity32xlarge",
+                "instanceCapacityXlarge",
+                "licenseModel",
+                "currentGeneration",
+                "preInstalledSw",
+                "transferType",
+                "location",
+                "instanceCapacity24xlarge",
+                "instanceCapacity9xlarge",
+                "instanceCapacityMedium",
+                "operation",
+                "resourceType"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonECRPublic",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "storagetype",
+                "fromLocationType",
+                "toLocationType",
+                "toLocation",
+                "fromLocation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonECR",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storageType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonECS",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "tenancy",
+                "locationType",
+                "externalInstanceType",
+                "cputype",
+                "storagetype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "memorytype",
+                "operation",
+                "resource",
+                "cpuArchitecture",
+                "operatingSystem"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonEFS",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "accessType",
+                "regionCode",
+                "storageClass",
+                "servicecode",
+                "throughputClass",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonEI",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "acceleratorType",
+                "regionCode",
+                "servicecode",
+                "acceleratorSize",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonEKS",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "tenancy",
+                "locationType",
+                "cputype",
+                "storagetype",
+                "tiertype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "memorytype",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonES",
+            "AttributeNames": [
+                "productFamily",
+                "computeType",
+                "vcpu",
+                "OfferingClass",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storage",
+                "instanceFamily",
+                "storageMedia",
+                "regionCode",
+                "servicecode",
+                "LeaseContractLength",
+                "ecu",
+                "memoryGib",
+                "currentGeneration",
+                "location",
+                "servicename",
+                "PurchaseOption",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonETS",
+            "AttributeNames": [
+                "productFamily",
+                "transcodingResult",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "videoResolution"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonElastiCache",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "OfferingClass",
+                "ssd",
+                "termType",
+                "locationType",
+                "instanceFamily",
+                "storageMedia",
+                "regionCode",
+                "LeaseContractLength",
+                "networkPerformance",
+                "servicename",
+                "PurchaseOption",
+                "instanceType",
+                "usagetype",
+                "cacheEngine",
+                "servicecode",
+                "currentGeneration",
+                "transferType",
+                "location",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonFSx",
+            "AttributeNames": [
+                "productFamily",
+                "throughputCapacity",
+                "requestType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "fileSystemType",
+                "regionCode",
+                "servicecode",
+                "currentGeneration",
+                "deploymentOption",
+                "storageType",
+                "fileCacheType",
+                "location",
+                "servicename",
+                "operation",
+                "cacheType"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonFinSpace",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "termType",
+                "usagetype",
+                "locationType",
+                "usertype",
+                "storagetype",
+                "computetype",
+                "node",
+                "regionCode",
+                "servicecode",
+                "computesize",
+                "location",
+                "details",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonForecast",
+            "AttributeNames": [
+                "regionCode",
+                "servicecode",
+                "groupDetails",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonFraudDetector",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "predictionType",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonGameLift",
+            "AttributeNames": [
+                "productFamily",
+                "isSpotInstance",
+                "vcpu",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceStorageGb",
+                "operatingSystem",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "ecu",
+                "memoryGib",
+                "currentGeneration",
+                "location",
+                "servicename",
+                "operation",
+                "dimension",
+                "groupDescription",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonGlacier",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "durability",
+                "termType",
+                "usagetype",
+                "locationType",
+                "availability",
+                "regionCode",
+                "feeDescription",
+                "servicecode",
+                "groupDescription",
+                "feeCode",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonGrafana",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonGuardDuty",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonHealthLake",
+            "AttributeNames": [
+                "productFamily",
+                "nlpclass",
+                "termType",
+                "usagetype",
+                "inputtype",
+                "locationType",
+                "storageclass",
+                "regionCode",
+                "servicecode",
+                "datatype",
+                "location",
+                "servicename",
+                "operation",
+                "bundle",
+                "querytype"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonHoneycode",
+            "AttributeNames": [
+                "productFamily",
+                "usageTier",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "tier",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonIVSChat",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "messageType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonIVS",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "outputType",
+                "servicecode",
+                "transferType",
+                "location",
+                "inputType",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonInspectorV2",
+            "AttributeNames": [
+                "productFamily",
+                "freeUsageIncluded",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "usageVolume",
+                "location",
+                "servicename",
+                "scanType"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonInspector",
+            "AttributeNames": [
+                "productFamily",
+                "freeUsageIncluded",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonKendra",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonKinesisAnalytics",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonKinesisFirehose",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "sourcetype",
+                "tickettype",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonKinesisVideo",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "readtype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonKinesis",
+            "AttributeNames": [
+                "productFamily",
+                "maximumExtendedStorage",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "standardStorageRetentionIncluded",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLex",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "outputMode",
+                "supportedModes",
+                "learningMode",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "inputMode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLightsail",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "storageCapacityQuota",
+                "memory",
+                "overageType",
+                "vcpu",
+                "termType",
+                "fromRegionCode",
+                "locationType",
+                "freeOverage",
+                "storage",
+                "toLocationType",
+                "operatingSystem",
+                "toLocation",
+                "highAvailability",
+                "toRegionCode",
+                "regionCode",
+                "engine",
+                "servicename",
+                "power",
+                "group",
+                "dataTransferQuota",
+                "isfree",
+                "usagetype",
+                "servicecode",
+                "groupDescription",
+                "countsAgainstQuota",
+                "transferType",
+                "location",
+                "fromLocation",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLocationService",
+            "AttributeNames": [
+                "productFamily",
+                "pricingplan",
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "subservice",
+                "regionCode",
+                "servicecode",
+                "provider",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLookoutEquipment",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLookoutMetrics",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonLookoutVision",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "lookoutvisionimage"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMCS",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonML",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "machineLearningProcess",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMQ",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "termType",
+                "usagetype",
+                "locationType",
+                "normalizationSizeFactor",
+                "Restriction",
+                "regionCode",
+                "storageClass",
+                "servicecode",
+                "clockSpeed",
+                "provisioned",
+                "enhancedNetworkingSupport",
+                "licenseModel",
+                "networkPerformance",
+                "deploymentOption",
+                "location",
+                "servicename",
+                "operation",
+                "brokerEngine"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMSK",
+            "AttributeNames": [
+                "productFamily",
+                "vcpu",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "storageFamily",
+                "computeFamily",
+                "regionCode",
+                "servicecode",
+                "memoryGib",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMWAA",
+            "AttributeNames": [
+                "termType",
+                "usagetype",
+                "locationType",
+                "type",
+                "version",
+                "regionCode",
+                "servicecode",
+                "size",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMacie",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "group",
+                "logsSource",
+                "classificationType",
+                "contentSource",
+                "logsType",
+                "activityType",
+                "contentType"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonManagedBlockchain",
+            "AttributeNames": [
+                "productFamily",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "frameworkType",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "size",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMedicalImaging",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "storageClass",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMemoryDB",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "OfferingClass",
+                "ssd",
+                "termType",
+                "locationType",
+                "type",
+                "instanceFamily",
+                "storageMedia",
+                "regionCode",
+                "LeaseContractLength",
+                "networkPerformance",
+                "servicename",
+                "PurchaseOption",
+                "instanceType",
+                "usagetype",
+                "normalizationSizeFactor",
+                "Restriction",
+                "servicecode",
+                "currentGeneration",
+                "location",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonMonitron",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonNeptune",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "volumeType",
+                "engineCode",
+                "enhancedNetworkingSupported",
+                "memory",
+                "dedicatedEbsThroughput",
+                "vcpu",
+                "termType",
+                "fromRegionCode",
+                "locationType",
+                "storage",
+                "toLocationType",
+                "instanceFamily",
+                "toLocation",
+                "storageMedia",
+                "toRegionCode",
+                "regionCode",
+                "physicalProcessor",
+                "clockSpeed",
+                "networkPerformance",
+                "deploymentOption",
+                "servicename",
+                "group",
+                "minVolumeSize",
+                "instanceType",
+                "usagetype",
+                "normalizationSizeFactor",
+                "maxVolumeSize",
+                "databaseEngine",
+                "processorFeatures",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "licenseModel",
+                "currentGeneration",
+                "transferType",
+                "location",
+                "processorArchitecture",
+                "fromLocation",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonOmics",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "termType",
+                "locationType",
+                "ready2runWorkflowVersion",
+                "regionCode",
+                "storageClass",
+                "servicename",
+                "workflowType",
+                "datastoreType",
+                "group",
+                "gpuMemory",
+                "usagetype",
+                "gpu",
+                "ready2runWorkflowName",
+                "servicecode",
+                "groupDescription",
+                "publisher",
+                "analyticsType",
+                "location",
+                "omicsInstanceType",
+                "resourceType"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonPersonalize",
+            "AttributeNames": [
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "tier",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonPinpoint",
+            "AttributeNames": [
+                "productFamily",
+                "iso",
+                "termType",
+                "usagetype",
+                "originationId",
+                "locationType",
+                "messageCountfee",
+                "Restriction",
+                "meteringType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "messageType",
+                "location",
+                "servicename",
+                "routeType",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonPolly",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "engine",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonPrometheus",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonQLDB",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "ioRequestType",
+                "storageType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonQuickSight",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "edition",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "subscriptionType",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonRDS",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "deploymentModel",
+                "engineCode",
+                "enhancedNetworkingSupported",
+                "memory",
+                "dedicatedEbsThroughput",
+                "vcpu",
+                "OfferingClass",
+                "termType",
+                "locationType",
+                "storage",
+                "instanceFamily",
+                "storageMedia",
+                "databaseEdition",
+                "regionCode",
+                "acu",
+                "physicalProcessor",
+                "LeaseContractLength",
+                "clockSpeed",
+                "networkPerformance",
+                "deploymentOption",
+                "servicename",
+                "PurchaseOption",
+                "minVolumeSize",
+                "group",
+                "instanceTypeFamily",
+                "instanceType",
+                "usagetype",
+                "normalizationSizeFactor",
+                "maxVolumeSize",
+                "engineMediaType",
+                "databaseEngine",
+                "processorFeatures",
+                "Restriction",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "licenseModel",
+                "currentGeneration",
+                "volumeName",
+                "location",
+                "processorArchitecture",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonRedshift",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "OfferingClass",
+                "termType",
+                "locationType",
+                "description",
+                "storage",
+                "storageMedia",
+                "regionCode",
+                "LeaseContractLength",
+                "ecu",
+                "servicename",
+                "PurchaseOption",
+                "group",
+                "concurrencyscalingfreeusage",
+                "io",
+                "instanceType",
+                "usagetype",
+                "Restriction",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "currentGeneration",
+                "usageFamily",
+                "location",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonRekognition",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonRoute53",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "location",
+                "servicename",
+                "resourceEndpoint",
+                "routingTarget",
+                "groupDescription",
+                "routingType",
+                "group",
+                "pricingUnit"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonS3GlacierDeepArchive",
+            "AttributeNames": [
+                "volumeType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "storageClass",
+                "regionCode",
+                "feeDescription",
+                "servicecode",
+                "groupDescription",
+                "feeCode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonS3",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "volumeType",
+                "termType",
+                "fromRegionCode",
+                "locationType",
+                "toLocationType",
+                "availability",
+                "toLocation",
+                "toRegionCode",
+                "regionCode",
+                "storageClass",
+                "feeDescription",
+                "feeCode",
+                "servicename",
+                "group",
+                "overhead",
+                "durability",
+                "usagetype",
+                "servicecode",
+                "groupDescription",
+                "transferType",
+                "location",
+                "fromLocation",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSES",
+            "AttributeNames": [
+                "productFamily",
+                "origin",
+                "termType",
+                "usagetype",
+                "locationType",
+                "description",
+                "apiCategory",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "recipient",
+                "location",
+                "servicename",
+                "operation",
+                "contentType",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSNS",
+            "AttributeNames": [
+                "productFamily",
+                "endpointType",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSWF",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group",
+                "comments"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSageMaker",
+            "AttributeNames": [
+                "productFamily",
+                "automaticLabel",
+                "volumeType",
+                "memory",
+                "computeType",
+                "instanceName",
+                "termType",
+                "locationType",
+                "storage",
+                "platoinstancetype",
+                "datastoreStoragetype",
+                "regionCode",
+                "clockSpeed",
+                "networkPerformance",
+                "workforceType",
+                "servicename",
+                "physicalCpu",
+                "memorygb",
+                "physicalGpu",
+                "group",
+                "maxThroughputvolume",
+                "platoclassificationtype",
+                "gpuMemory",
+                "platoinstancename",
+                "vCpu",
+                "instanceType",
+                "usagetype",
+                "labelingTaskType",
+                "gpu",
+                "Restriction",
+                "component",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "currentGeneration",
+                "location",
+                "processorArchitecture",
+                "operation",
+                "integratingFeature",
+                "integratingApi",
+                "integratingService"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSecurityLake",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "logsource",
+                "logorigin",
+                "regionCode",
+                "servicecode",
+                "paid",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSimpleDB",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonStates",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonSumerian",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "eventType",
+                "offer",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonTextract",
+            "AttributeNames": [
+                "productFamily",
+                "pricingunit",
+                "entityType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "platopagedatatype",
+                "location",
+                "servicename",
+                "apiType",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonTimestream",
+            "AttributeNames": [
+                "productFamily",
+                "disableactivationconfirmationemail",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonVPC",
+            "AttributeNames": [
+                "productFamily",
+                "endpointType",
+                "attachmentType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonVerifiedPermissions",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "apitype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWAM",
+            "AttributeNames": [
+                "productFamily",
+                "planType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWorkDocs",
+            "AttributeNames": [
+                "productFamily",
+                "freeTrial",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "storage",
+                "maximumStorageVolume",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "minimumStorageVolume"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWorkLink",
+            "AttributeNames": [
+                "productFamily",
+                "deploymentModel",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWorkMail",
+            "AttributeNames": [
+                "productFamily",
+                "freeTier",
+                "termType",
+                "usagetype",
+                "locationType",
+                "mailboxStorage",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWorkSpacesWeb",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "bundle"
+            ]
+        },
+        {
+            "ServiceCode": "AmazonWorkSpaces",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "vcpu",
+                "runningMode",
+                "termType",
+                "locationType",
+                "storage",
+                "operatingSystem",
+                "bundleDescription",
+                "bundleGroup",
+                "softwareIncluded",
+                "regionCode",
+                "servicename",
+                "bundle",
+                "group",
+                "usagetype",
+                "license",
+                "Restriction",
+                "uservolume",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "location",
+                "rootvolume",
+                "resourceType"
+            ]
+        },
+        {
+            "ServiceCode": "AppFlow",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "flow"
+            ]
+        },
+        {
+            "ServiceCode": "CloudHSM",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceFamily",
+                "trialProduct",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "upfrontCommitment",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "CodeBuild",
+            "AttributeNames": [
+                "productFamily",
+                "memory",
+                "computeType",
+                "vcpu",
+                "termType",
+                "usagetype",
+                "locationType",
+                "operatingSystem",
+                "computeFamily",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "CodeCatalyst",
+            "AttributeNames": [
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceSize",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "tier",
+                "provisioningType",
+                "osType",
+                "storageType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "CodeGuru",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "baseProductReferenceCode"
+            ]
+        },
+        {
+            "ServiceCode": "ContactCenterTelecomm",
+            "AttributeNames": [
+                "productFamily",
+                "country",
+                "callingType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "lineType",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "ContactLensAmazonConnect",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "analyticsType",
+                "location",
+                "servicename",
+                "operation",
+                "analyticsMode"
+            ]
+        },
+        {
+            "ServiceCode": "CustomerProfiles",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "lockeprofiles",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "ElasticMapReduce",
+            "AttributeNames": [
+                "productFamily",
+                "softwareType",
+                "instanceType",
+                "termType",
+                "usagetype",
+                "locationType",
+                "instanceFamily",
+                "regionCode",
+                "servicecode",
+                "pricingUnit",
+                "location",
+                "servicename",
+                "meterunit",
+                "compute",
+                "operation",
+                "computeprovider"
+            ]
+        },
+        {
+            "ServiceCode": "IngestionServiceSnowball",
+            "AttributeNames": [
+                "productFamily",
+                "fromLocationType",
+                "termType",
+                "fromRegionCode",
+                "locationType",
+                "3yearPrice",
+                "toLocationType",
+                "toLocation",
+                "regionCode",
+                "snowballType",
+                "jobnshipp",
+                "releaseType",
+                "servicename",
+                "group",
+                "jobFee",
+                "1yearPrice",
+                "deviceDescription",
+                "freeDays",
+                "usagetype",
+                "servicecode",
+                "groupDescription",
+                "pricingUnit",
+                "platosnowballtype",
+                "transferType",
+                "location",
+                "fromLocation",
+                "extraDayFee",
+                "toRegionCode"
+            ]
+        },
+        {
+            "ServiceCode": "IngestionService",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "dataAction",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "IoTDeviceDefender",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "feature",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "IoTDeviceManagement",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "eventType",
+                "indexingSource",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "newcode"
+            ]
+        },
+        {
+            "ServiceCode": "IoTTwinMaker",
+            "AttributeNames": [
+                "productFamily",
+                "tiers",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "OpsWorks",
+            "AttributeNames": [
+                "productFamily",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "serverLocation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "PaymentCryptography",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "apitype"
+            ]
+        },
+        {
+            "ServiceCode": "SimSpaceWeaver",
+            "AttributeNames": [
+                "productFamily",
+                "appslots",
+                "termType",
+                "usagetype",
+                "locationType",
+                "siminstancefamily",
+                "siminstancetype",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "SnowballExtraDays",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "snowballType",
+                "feeDescription",
+                "servicecode",
+                "feeCode",
+                "location",
+                "servicename"
+            ]
+        },
+        {
+            "ServiceCode": "VMwareCloudOnAWS",
+            "AttributeNames": [
+                "productFamily",
+                "productgroupid",
+                "brioproductid",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "productsubgroup",
+                "iscommitcpsku",
+                "regionCode",
+                "servicecode",
+                "chargeid",
+                "location",
+                "servicename",
+                "operation",
+                "vmwareproductid",
+                "vmwareregion"
+            ]
+        },
+        {
+            "ServiceCode": "auditmanager",
+            "AttributeNames": [
+                "productFamily",
+                "regionCode",
+                "servicecode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "location",
+                "servicename",
+                "resourceAssessment"
+            ]
+        },
+        {
+            "ServiceCode": "awskms",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "Restriction",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "awswaf",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "location",
+                "servicename",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "comprehend",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "groupDescription",
+                "platofeaturetype",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "comprehendmedical",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation",
+                "group"
+            ]
+        },
+        {
+            "ServiceCode": "datapipeline",
+            "AttributeNames": [
+                "productFamily",
+                "frequencyMode",
+                "termType",
+                "usagetype",
+                "locationType",
+                "description",
+                "executionFrequency",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "group",
+                "executionLocation"
+            ]
+        },
+        {
+            "ServiceCode": "mobileanalytics",
+            "AttributeNames": [
+                "productFamily",
+                "includedEvents",
+                "termType",
+                "usagetype",
+                "description",
+                "locationType",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "nimble",
+            "AttributeNames": [
+                "productFamily",
+                "volumeType",
+                "maxIopsvolume",
+                "memory",
+                "vcpu",
+                "termType",
+                "locationType",
+                "operatingSystem",
+                "storageMedia",
+                "regionCode",
+                "provisioned",
+                "platovolumetype",
+                "servicename",
+                "group",
+                "maxThroughputvolume",
+                "instanceType",
+                "usagetype",
+                "servicecode",
+                "groupDescription",
+                "maaxVolumeSize",
+                "volumeApiName",
+                "location",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "transcribe",
+            "AttributeNames": [
+                "productFamily",
+                "termType",
+                "usagetype",
+                "locationType",
+                "supportedModes",
+                "regionCode",
+                "servicecode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        },
+        {
+            "ServiceCode": "translate",
+            "AttributeNames": [
+                "productFamily",
+                "filetype",
+                "termType",
+                "usagetype",
+                "locationType",
+                "outputMode",
+                "regionCode",
+                "servicecode",
+                "inputMode",
+                "location",
+                "servicename",
+                "operation"
+            ]
+        }
+    ],
+    "FormatVersion": "aws_v1"
+}
